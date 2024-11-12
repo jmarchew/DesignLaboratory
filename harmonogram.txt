@@ -1,0 +1,8 @@
+11.11-22.11
+Zbieranie dokumentacji (Mateusz Kosek, Jakub Marchewczyk, Wojciech Midura)
+23.11-5.12 
+Konfiguracja czujników DH11 i BH1750 oraz zegara czasu DS1302 RTC (Jakub Marchewczyk, Wojciech Midura)
+6.12-14.12
+Konfiguracja wyświetlacza LCD (Mateusz Kosek)
+15.12-6.01
+Uruchomienie komunikacji ESP-NOW (Mateusz Kosek, Jakub Marchewczyk, Wojciech Midura)
