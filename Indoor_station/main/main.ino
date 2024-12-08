@@ -52,8 +52,7 @@ void loop(){
               dt.Year(),
               dt.Hour(),
               dt.Minute(),   
-              dt.Second()+15 //RTC setup was compilation date, adding 15s adjusts time
-                            // difference between compilation and flashing     
+              dt.Second()    
               );
 
     lcd.setCursor(0, 0);
